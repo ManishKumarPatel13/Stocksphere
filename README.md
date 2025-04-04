@@ -7,8 +7,7 @@
 A modern, AI-powered stock trading and portfolio management platform. StockSphere combines real-time market data with personalized AI insights to help users make informed investment decisions.
 
 <div align="center">
-  <!-- Add a screenshot of the dashboard here -->
-  <em>StockSphere Dashboard Screenshot</em>
+  <img src="static/images/Screenshot 2025-04-04 091718.png" alt="StockSphere Dashboard" width="800"/>
 </div>
 
 ## ✨ Features

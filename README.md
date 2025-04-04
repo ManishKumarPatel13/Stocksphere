@@ -7,7 +7,7 @@
 A modern, AI-powered stock trading and portfolio management platform. StockSphere combines real-time market data with personalized AI insights to help users make informed investment decisions.
 
 <div align="center">
-  <img src="static/images/Screenshot 2025-04-04 091718.png" alt="StockSphere Dashboard" width="800"/>
+  <img src="static/images/dashboard.png" alt="StockSphere Dashboard" width="800"/>
 </div>
 
 ## ✨ Features
@@ -29,8 +29,7 @@ StockSphere features an advanced AI chatbot powered by Llama 3.2, providing:
 - Investment strategy guidance
 
 <div align="center">
-  <!-- Add a screenshot of the AI assistant here -->
-  <em>AI Assistant Screenshot</em>
+  <img src="static/images/AI assistant.png" alt="StockSphere AI Assistant" width="800"/>
 </div>
 
 ## 🛠️ Technology Stack
